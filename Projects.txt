@@ -1,0 +1,3 @@
+Project#, Name, Building type, Address, ERF #, Total fee, Amount paid, Deadline, Finalised, Completion Date, Architect, Contractor, Customer
+1, Test, House, 12 w st, 121, R12311.00, R2121121.00, 2021-01-21, Yes, 2022-09-28, [Arch Sop,20320,203@gm.com,2 Well st], [Jon no o0p,022020,Mmsmsm'@,12 Ooo], [Com Kol,01221211221,lop@mail.com,12 Kim St]
+2, Karen House, House, 221, 12, R1221.00, R122.00, 2022-02-02, No, Incomplete, [Arc Sur,phone,e,add], [Con Tractor,p,e,a], [Karen Maistry,09372738,nshsj@icloud.com,12 Wall Street]
